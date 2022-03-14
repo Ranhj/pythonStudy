@@ -6,6 +6,7 @@
 # Title:      func_studentsOS_demo.py
 
 # 学生管理系统
+
 def main_interface():
     '''功能主界面'''
     print('请选择功能：')
