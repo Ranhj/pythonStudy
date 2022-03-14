@@ -4,7 +4,6 @@
 # Datetime:   2022/3/14 9:27
 # IDE:        PyCharm
 # Title:      func_quote_demo2.py
-
 # 需求：引用是否可以当作实参
 '''
 1.定义函数：有形参

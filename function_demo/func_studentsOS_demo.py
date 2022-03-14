@@ -4,7 +4,6 @@
 # Datetime:   2022/3/14 10:39
 # IDE:        PyCharm
 # Title:      func_studentsOS_demo.py
-
 # 学生管理系统
 
 def main_interface():
