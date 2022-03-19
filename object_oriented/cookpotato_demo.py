@@ -42,12 +42,15 @@ digua1 = SweetPotato()
 print(digua1)
 digua1.cook(2)
 digua1.add_condiments('香油')
+
 print(digua1)
 digua1.cook(2)
 digua1.add_condiments('椒盐')
+
 print(digua1)
 digua1.cook(2)
 digua1.add_condiments('辣椒面')
+
 print(digua1)
 digua1.cook(2)
 print(digua1)
